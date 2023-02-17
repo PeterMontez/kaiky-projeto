@@ -1,0 +1,18 @@
+Co = Cobalto - n° atômico 27 - massa atómica 59
+
+No = Nobélio - n° atômico 102 - massa atómica 259
+
+No2 = Dióxido de nitrogénio 
+
+O3 = Ozônio
+
+SO2 = Dióxido de enxofre
+
+PM2,5 = Partículas com 2,5 micrómetros ou menos de diâmetro.
+
+PM10 = Partículas com 10 micrómetros ou menos de diâmetro.
+
+NH3 = Amoníaco 
+
+
+31f63b          08c412
